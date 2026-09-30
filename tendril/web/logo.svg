@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <title>Tendril</title>
+  <!-- A "T" whose right arm curls into a tendril: quarter-circle arcs with radii 20, 13, 8, 5. -->
+  <g transform="translate(1 -9)" fill="none" stroke="#2f8f55" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 116 L58 38"/>
+    <path d="M22 38 L84 38 A20 20 0 0 1 104 58 A13 13 0 0 1 91 71 A8 8 0 0 1 83 63 A5 5 0 0 1 88 58"/>
+  </g>
+</svg>
